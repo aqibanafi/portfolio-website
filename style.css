@@ -34,6 +34,10 @@ p{
     font-size: 20px;
     line-height: 30px;
     font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    color: #777777
+    
+    
 }
 .section-1 div{
     padding-top: 350px;
@@ -55,4 +59,47 @@ h2{
     margin: -20px;
     margin-left: -460px;
     
+}
+.second-picture {
+    width: 50%;
+    margin-left: 10px;
+    padding-right: 20px;
+    
+
+}
+.content{
+    width: 50%; 
+    margin-left: 60px;
+    margin-top: 100px;
+    
+}
+.section-2{
+    display:flex
+}
+.about-picture{
+    box-shadow: 5px 5px 20px -10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    margin-left: 300px;
+    margin-top: 50px;
+
+    
+}
+.four-content {
+    display: flex;
+    margin-top: 30px;
+}
+
+.sub-sec{
+    padding-left: 130px;
+}
+#my-about{
+    font-weight: 800;
+    font-size: 50px;
+}
+#read{
+    font-size: 20px;
+    color: #fd4766;
+    padding-top: 50px;
+
 }
