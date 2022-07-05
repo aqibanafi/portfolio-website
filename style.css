@@ -229,3 +229,63 @@ font-family: 'Poppins', sans-serif;
     font-weight: bolder;
     margin-top: 280px;
 }
+
+.form{
+    display: flex;
+    
+    
+}
+.main-form{
+    
+    margin-left: 250px;
+    padding: 50px;
+}
+input{
+    
+  padding: 10px;
+  padding-left: 20px;
+  height: 30px;
+  width: 500px;
+  font-size: 14px;
+  border-radius: 10px;
+  
+  margin: 10px;
+}
+#special-message{
+   
+  padding: 10px;
+  padding-left: 20px;
+  height: 200px;
+  width: 500px;
+  font-size: 14px;
+  border-radius: 10px;
+  
+}
+#form-h3{
+   margin-left: 310px;
+   margin-top: 10px;
+  
+}
+.hire-me{
+    font-weight: 800;
+    font-size: 50px;
+    margin-left: 300px;
+}
+h4{
+    margin-left: 310px;
+}
+span{
+    font-weight: 100;
+}
+#hire-me-img{
+  
+}
+.form-part-2{
+    width: 50%;
+}
+.form-part-1{
+    width: 50%;
+}
+.form-part-2 img{
+    height: 800px;
+}
