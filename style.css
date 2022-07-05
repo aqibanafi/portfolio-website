@@ -43,7 +43,7 @@ p{
     padding-top: 350px;
     padding-left: 300px;
 }
-h2{
+.link-click{
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
     background-color: #fd4766;
@@ -51,6 +51,7 @@ h2{
     padding: 15px 35px;
     border-radius: 50px;
     color: white;
+    text-decoration: none;
 }
 #pink{
     color: #fd4766;
@@ -147,10 +148,13 @@ font-family: 'Poppins', sans-serif;
 }
 .section-4{
     padding-top: 200px;
+    
 }
 .section-4-work{
     display: flex;
     margin-left: 150px;
+    margin-bottom: 0px;
+    
 }
 .section2-img{
    background-image: url(img/game-development.jpg);
@@ -158,6 +162,7 @@ font-family: 'Poppins', sans-serif;
    width: 500px;
    background-repeat: no-repeat;
    margin-right: 20px;
+  
     
 }
 .section2-img1{
@@ -167,8 +172,8 @@ font-family: 'Poppins', sans-serif;
    background-repeat: no-repeat;
 }
 .section2-img2{
-    background-image: url(img/seo-marketing.jpg);
-    height: 600px;
+    background-image: url(img/facebook-793048_1920.jpg);
+    height: 400px;
    width: 500px;
    background-repeat: no-repeat;
    margin-left: 20px;
@@ -176,15 +181,51 @@ font-family: 'Poppins', sans-serif;
 .service-p{
     color: white;
     font-weight: bolder;
-    margin-top: 280px;
+    margin-top: 250px;
+    
 }
 .service-button{
-    font-size: 12px;
-    background: none;
-    border: 2px white solid;
-    border-radius: 0%;
-    margin-left: 180px;
-    margin-top: 100px;
-    padding-top: 10px
-}
+   color: white;
+   text-decoration: none;
+   border: 2px white solid;
+   font-size: 15px;
+   padding: 15px 30px;
+   margin-left: 180px;
+   font-weight: 600;
+   
     
+}
+.section-5-work{
+    display: flex;
+    margin-left: 150px;
+   margin-top: -200px;
+}
+#service-division{
+    padding-bottom: 20px;
+}
+.section2-img10{
+    background-image: url(img/wordpress-581849_1920.jpg);
+    height: 600px;
+    width: 500px;
+    background-repeat: no-repeat;
+    margin-right: 20px;
+}
+.section2-img120{
+    background-image: url(img/apple-watch-5201172_1920.jpg);
+    height: 427px;
+   width: 500px;
+   background-repeat: no-repeat;
+}
+.section2-img230{
+    background-image: url(img/tiger-2430625_1920.jpg);
+    height: 427px;
+   width: 500px;
+   background-repeat: no-repeat;
+   margin-left: 20px;
+   margin-bottom: 100px;
+}
+.service-p-1{
+    color: white;
+    font-weight: bolder;
+    margin-top: 280px;
+}
