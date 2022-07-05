@@ -133,3 +133,58 @@ font-family: 'Poppins', sans-serif;
     padding: 10px;
     color: #777777
 }
+#our-project{
+    font-size: 50px;
+}
+.section-4 h3{
+    text-align: center;
+}
+.section-4 h1{
+    text-align: center;
+}
+.section-4 p{
+    text-align: center;
+}
+.section-4{
+    padding-top: 200px;
+}
+.section-4-work{
+    display: flex;
+    margin-left: 150px;
+}
+.section2-img{
+   background-image: url(img/game-development.jpg);
+   height: 600px;
+   width: 500px;
+   background-repeat: no-repeat;
+   margin-right: 20px;
+    
+}
+.section2-img1{
+    background-image: url(img/repoting-development.jpg);
+    height: 600px;
+   width: 500px;
+   background-repeat: no-repeat;
+}
+.section2-img2{
+    background-image: url(img/seo-marketing.jpg);
+    height: 600px;
+   width: 500px;
+   background-repeat: no-repeat;
+   margin-left: 20px;
+}
+.service-p{
+    color: white;
+    font-weight: bolder;
+    margin-top: 280px;
+}
+.service-button{
+    font-size: 12px;
+    background: none;
+    border: 2px white solid;
+    border-radius: 0%;
+    margin-left: 180px;
+    margin-top: 100px;
+    padding-top: 10px
+}
+    
